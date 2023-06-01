@@ -6,3 +6,4 @@ opencv-python
 streamlit
 pymongo
 bcrypt
+redis
