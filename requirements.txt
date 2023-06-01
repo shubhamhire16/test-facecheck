@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scipy
+jupyter
+opencv-python
+streamlit
+os
+pymongo
+csv
+io
+datetime
+av
+bcrypt
+signup
+login
