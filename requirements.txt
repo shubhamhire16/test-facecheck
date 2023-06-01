@@ -10,3 +10,4 @@ redis
 insightface
 pairwise
 onnxruntime
+streamlit-webrtc
