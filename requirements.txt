@@ -9,3 +9,4 @@ bcrypt
 redis
 insightface
 pairwise
+onnxruntime
